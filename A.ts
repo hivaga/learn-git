@@ -1,3 +1,3 @@
 export const A = 'aaaa';
 
-export const A2 = 'a2';
+export const A2 = 'aaa2';
