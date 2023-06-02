@@ -1,1 +1,1 @@
-export const D = 'dddaa';
+export const D = 'ww';
