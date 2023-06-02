@@ -1,1 +1,1 @@
-export const C = 'CCCasdfsadfC';
+export const C = 'dd';
