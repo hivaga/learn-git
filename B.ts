@@ -1,1 +1,1 @@
-export const B = 'bbaa';
+export const B = 'bbaaaaa';
