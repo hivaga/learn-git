@@ -1,1 +1,1 @@
-export const F = 'FFFfasdfaaaFFddd';
+export const F = 'fff';
