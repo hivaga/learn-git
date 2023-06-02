@@ -1,1 +1,1 @@
-export const C = 'CCC';
+export const C = 'CCCC';
