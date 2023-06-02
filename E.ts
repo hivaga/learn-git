@@ -1,1 +1,1 @@
-export const E = 'EESEE';
+export const E = '#@@#@#';
