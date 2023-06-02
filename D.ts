@@ -1,1 +1,1 @@
-export const D = 'ww43434';
+export const D = 'd';
