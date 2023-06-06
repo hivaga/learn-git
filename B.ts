@@ -1,1 +1,1 @@
-export const B = 'bggb5';
+export const B = 'hello';
