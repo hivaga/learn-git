@@ -1,1 +1,1 @@
-export const C = 'ccddcc5aaaccacca';
+export const C = 'c';
